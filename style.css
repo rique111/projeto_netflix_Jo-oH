@@ -1,0 +1,14 @@
+body { background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    margin:0px; 
+    font-family: "Roboto", sans-serif;}
+
+    header{border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 35px;
+    color: black;
+    }
+.chamada{background-color: rgb(255, 255, 255) ; 
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
